@@ -1,0 +1,37 @@
+
+body {
+    background-color:gold;
+}
+
+h1 {
+    color: black;
+}
+
+form input,
+form textarea,
+form button {
+    display: block;
+    width: 320px;
+    margin-bottom: 8px;
+    padding: 8px;
+}
+
+button {
+    background-color: black;
+    color: white;
+}
+
+footer {
+    padding: 16px 0;
+    color:black;
+}
+
+    #carro,ul,li a{
+    color:white;
+    background-color:black;
+}
+
+footer {
+    background-color: black;
+    color: rgb(255, 208, 0);
+}
